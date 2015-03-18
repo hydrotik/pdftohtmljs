@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hydrotik/pdftohtmljs.git"
+    "url": "https://github.com/fagbokforlaget/pdftohtmljs.git"
   },
-  "author": "Deepak Thukral <iapain@iapa.in> http://iapa.in, Donovan Adams | git:hydrotik",
+  "author": "Deepak Thukral <iapain@iapa.in> http://iapa.in",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hydrotik/pdftohtmljs/issues"
+    "url": "https://github.com/hydrotik/fagbokforlaget/issues"
   },
   "keywords": [
     "pdf2htmlex",
@@ -31,5 +31,5 @@
     "html5",
     "converter"
   ],
-  "homepage": "https://github.com/hydrotik/pdftohtmljs"
+  "homepage": "https://github.com/fagbokforlaget/pdftohtmljs"
 }
