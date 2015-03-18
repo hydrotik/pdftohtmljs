@@ -1,7 +1,7 @@
 {
   "name": "pdftohtmljs",
   "version": "0.3.5",
-  "description": "PDF to HTML (pdf2htmlex) shell wrapper",
+  "description": "PDF to HTML (pdf2htmlex) shell wrapper. Forked from https://github.com/fagbokforlaget/pdftohtmljs.git",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fagbokforlaget/pdftohtmljs.git"
+    "url": "https://github.com/hydrotik/pdftohtmljs.git"
   },
-  "author": "Deepak Thukral <iapain@iapa.in> http://iapa.in",
+  "author": "Deepak Thukral <iapain@iapa.in> http://iapa.in, Donovan Adams | git:hydrotik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fagbokforlaget/pdftohtmljs/issues"
+    "url": "https://github.com/hydrotik/pdftohtmljs/issues"
   },
   "keywords": [
     "pdf2htmlex",
@@ -31,5 +31,5 @@
     "html5",
     "converter"
   ],
-  "homepage": "https://github.com/fagbokforlaget/pdftohtmljs"
+  "homepage": "https://github.com/hydrotik/pdftohtmljs"
 }
